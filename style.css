@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(0, 6, 17, 0.887);
+   
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.main{
+box-shadow: 5px 5px 5px 5px black;
+padding: 20px;
+border: 2px solid white;
+border-radius: 10px ;
+}
+button{
+    width: 50px;
+margin: 3px;
+    cursor: pointer;
+}
+#clraaa{
+    width: 100px;
+}
+input{
+    height: 40px;
+width: 100%;
+}
